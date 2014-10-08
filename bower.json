@@ -11,6 +11,6 @@
   "dependencies": {
     "bem-core": "v2.3.0",
     "bem-components": "git://github.com/bem/bem-components.git#4685e5aa5383dc3a5612b648c679cb004ca67df0",
-    "constructor-blocks": "https://github.com/kompolom/constructor-blocks.git#v0.3.0"
+    "constructor-blocks": "https://github.com/kompolom/constructor-blocks.git#v0.3.2"
   }
 }
